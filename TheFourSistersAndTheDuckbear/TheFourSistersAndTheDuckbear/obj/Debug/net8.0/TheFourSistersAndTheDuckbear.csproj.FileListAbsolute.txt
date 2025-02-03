@@ -1,0 +1,14 @@
+D:\Languages\C#\HomeWork\HomeWork1\TheFourSistersAndTheDuckbear\TheFourSistersAndTheDuckbear\bin\Debug\net8.0\TheFourSistersAndTheDuckbear.exe
+D:\Languages\C#\HomeWork\HomeWork1\TheFourSistersAndTheDuckbear\TheFourSistersAndTheDuckbear\bin\Debug\net8.0\TheFourSistersAndTheDuckbear.deps.json
+D:\Languages\C#\HomeWork\HomeWork1\TheFourSistersAndTheDuckbear\TheFourSistersAndTheDuckbear\bin\Debug\net8.0\TheFourSistersAndTheDuckbear.runtimeconfig.json
+D:\Languages\C#\HomeWork\HomeWork1\TheFourSistersAndTheDuckbear\TheFourSistersAndTheDuckbear\bin\Debug\net8.0\TheFourSistersAndTheDuckbear.dll
+D:\Languages\C#\HomeWork\HomeWork1\TheFourSistersAndTheDuckbear\TheFourSistersAndTheDuckbear\bin\Debug\net8.0\TheFourSistersAndTheDuckbear.pdb
+D:\Languages\C#\HomeWork\HomeWork1\TheFourSistersAndTheDuckbear\TheFourSistersAndTheDuckbear\obj\Debug\net8.0\TheFourSistersAndTheDuckbear.GeneratedMSBuildEditorConfig.editorconfig
+D:\Languages\C#\HomeWork\HomeWork1\TheFourSistersAndTheDuckbear\TheFourSistersAndTheDuckbear\obj\Debug\net8.0\TheFourSistersAndTheDuckbear.AssemblyInfoInputs.cache
+D:\Languages\C#\HomeWork\HomeWork1\TheFourSistersAndTheDuckbear\TheFourSistersAndTheDuckbear\obj\Debug\net8.0\TheFourSistersAndTheDuckbear.AssemblyInfo.cs
+D:\Languages\C#\HomeWork\HomeWork1\TheFourSistersAndTheDuckbear\TheFourSistersAndTheDuckbear\obj\Debug\net8.0\TheFourSistersAndTheDuckbear.csproj.CoreCompileInputs.cache
+D:\Languages\C#\HomeWork\HomeWork1\TheFourSistersAndTheDuckbear\TheFourSistersAndTheDuckbear\obj\Debug\net8.0\TheFourSistersAndTheDuckbear.dll
+D:\Languages\C#\HomeWork\HomeWork1\TheFourSistersAndTheDuckbear\TheFourSistersAndTheDuckbear\obj\Debug\net8.0\refint\TheFourSistersAndTheDuckbear.dll
+D:\Languages\C#\HomeWork\HomeWork1\TheFourSistersAndTheDuckbear\TheFourSistersAndTheDuckbear\obj\Debug\net8.0\TheFourSistersAndTheDuckbear.pdb
+D:\Languages\C#\HomeWork\HomeWork1\TheFourSistersAndTheDuckbear\TheFourSistersAndTheDuckbear\obj\Debug\net8.0\TheFourSistersAndTheDuckbear.genruntimeconfig.cache
+D:\Languages\C#\HomeWork\HomeWork1\TheFourSistersAndTheDuckbear\TheFourSistersAndTheDuckbear\obj\Debug\net8.0\ref\TheFourSistersAndTheDuckbear.dll

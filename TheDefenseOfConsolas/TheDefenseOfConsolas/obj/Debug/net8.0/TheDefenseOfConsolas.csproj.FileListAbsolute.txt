@@ -1,0 +1,14 @@
+D:\Languages\C#\HomeWork\HomeWork1\TheDefenseOfConsolas\TheDefenseOfConsolas\bin\Debug\net8.0\TheDefenseOfConsolas.exe
+D:\Languages\C#\HomeWork\HomeWork1\TheDefenseOfConsolas\TheDefenseOfConsolas\bin\Debug\net8.0\TheDefenseOfConsolas.deps.json
+D:\Languages\C#\HomeWork\HomeWork1\TheDefenseOfConsolas\TheDefenseOfConsolas\bin\Debug\net8.0\TheDefenseOfConsolas.runtimeconfig.json
+D:\Languages\C#\HomeWork\HomeWork1\TheDefenseOfConsolas\TheDefenseOfConsolas\bin\Debug\net8.0\TheDefenseOfConsolas.dll
+D:\Languages\C#\HomeWork\HomeWork1\TheDefenseOfConsolas\TheDefenseOfConsolas\bin\Debug\net8.0\TheDefenseOfConsolas.pdb
+D:\Languages\C#\HomeWork\HomeWork1\TheDefenseOfConsolas\TheDefenseOfConsolas\obj\Debug\net8.0\TheDefenseOfConsolas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Languages\C#\HomeWork\HomeWork1\TheDefenseOfConsolas\TheDefenseOfConsolas\obj\Debug\net8.0\TheDefenseOfConsolas.AssemblyInfoInputs.cache
+D:\Languages\C#\HomeWork\HomeWork1\TheDefenseOfConsolas\TheDefenseOfConsolas\obj\Debug\net8.0\TheDefenseOfConsolas.AssemblyInfo.cs
+D:\Languages\C#\HomeWork\HomeWork1\TheDefenseOfConsolas\TheDefenseOfConsolas\obj\Debug\net8.0\TheDefenseOfConsolas.csproj.CoreCompileInputs.cache
+D:\Languages\C#\HomeWork\HomeWork1\TheDefenseOfConsolas\TheDefenseOfConsolas\obj\Debug\net8.0\TheDefenseOfConsolas.dll
+D:\Languages\C#\HomeWork\HomeWork1\TheDefenseOfConsolas\TheDefenseOfConsolas\obj\Debug\net8.0\refint\TheDefenseOfConsolas.dll
+D:\Languages\C#\HomeWork\HomeWork1\TheDefenseOfConsolas\TheDefenseOfConsolas\obj\Debug\net8.0\TheDefenseOfConsolas.pdb
+D:\Languages\C#\HomeWork\HomeWork1\TheDefenseOfConsolas\TheDefenseOfConsolas\obj\Debug\net8.0\TheDefenseOfConsolas.genruntimeconfig.cache
+D:\Languages\C#\HomeWork\HomeWork1\TheDefenseOfConsolas\TheDefenseOfConsolas\obj\Debug\net8.0\ref\TheDefenseOfConsolas.dll

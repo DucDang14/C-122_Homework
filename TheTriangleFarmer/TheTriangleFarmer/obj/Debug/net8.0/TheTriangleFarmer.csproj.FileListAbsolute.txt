@@ -1,0 +1,14 @@
+D:\Languages\C#\HomeWork\HomeWork1\TheTriangleFarmer\TheTriangleFarmer\bin\Debug\net8.0\TheTriangleFarmer.exe
+D:\Languages\C#\HomeWork\HomeWork1\TheTriangleFarmer\TheTriangleFarmer\bin\Debug\net8.0\TheTriangleFarmer.deps.json
+D:\Languages\C#\HomeWork\HomeWork1\TheTriangleFarmer\TheTriangleFarmer\bin\Debug\net8.0\TheTriangleFarmer.runtimeconfig.json
+D:\Languages\C#\HomeWork\HomeWork1\TheTriangleFarmer\TheTriangleFarmer\bin\Debug\net8.0\TheTriangleFarmer.dll
+D:\Languages\C#\HomeWork\HomeWork1\TheTriangleFarmer\TheTriangleFarmer\bin\Debug\net8.0\TheTriangleFarmer.pdb
+D:\Languages\C#\HomeWork\HomeWork1\TheTriangleFarmer\TheTriangleFarmer\obj\Debug\net8.0\TheTriangleFarmer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Languages\C#\HomeWork\HomeWork1\TheTriangleFarmer\TheTriangleFarmer\obj\Debug\net8.0\TheTriangleFarmer.AssemblyInfoInputs.cache
+D:\Languages\C#\HomeWork\HomeWork1\TheTriangleFarmer\TheTriangleFarmer\obj\Debug\net8.0\TheTriangleFarmer.AssemblyInfo.cs
+D:\Languages\C#\HomeWork\HomeWork1\TheTriangleFarmer\TheTriangleFarmer\obj\Debug\net8.0\TheTriangleFarmer.csproj.CoreCompileInputs.cache
+D:\Languages\C#\HomeWork\HomeWork1\TheTriangleFarmer\TheTriangleFarmer\obj\Debug\net8.0\TheTriangleFarmer.dll
+D:\Languages\C#\HomeWork\HomeWork1\TheTriangleFarmer\TheTriangleFarmer\obj\Debug\net8.0\refint\TheTriangleFarmer.dll
+D:\Languages\C#\HomeWork\HomeWork1\TheTriangleFarmer\TheTriangleFarmer\obj\Debug\net8.0\TheTriangleFarmer.pdb
+D:\Languages\C#\HomeWork\HomeWork1\TheTriangleFarmer\TheTriangleFarmer\obj\Debug\net8.0\TheTriangleFarmer.genruntimeconfig.cache
+D:\Languages\C#\HomeWork\HomeWork1\TheTriangleFarmer\TheTriangleFarmer\obj\Debug\net8.0\ref\TheTriangleFarmer.dll

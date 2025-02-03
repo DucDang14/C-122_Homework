@@ -1,0 +1,14 @@
+D:\Languages\C#\HomeWork\HomeWork1\RepairingTheClocktower\RepairingTheClocktower\bin\Debug\net8.0\RepairingTheClocktower.exe
+D:\Languages\C#\HomeWork\HomeWork1\RepairingTheClocktower\RepairingTheClocktower\bin\Debug\net8.0\RepairingTheClocktower.deps.json
+D:\Languages\C#\HomeWork\HomeWork1\RepairingTheClocktower\RepairingTheClocktower\bin\Debug\net8.0\RepairingTheClocktower.runtimeconfig.json
+D:\Languages\C#\HomeWork\HomeWork1\RepairingTheClocktower\RepairingTheClocktower\bin\Debug\net8.0\RepairingTheClocktower.dll
+D:\Languages\C#\HomeWork\HomeWork1\RepairingTheClocktower\RepairingTheClocktower\bin\Debug\net8.0\RepairingTheClocktower.pdb
+D:\Languages\C#\HomeWork\HomeWork1\RepairingTheClocktower\RepairingTheClocktower\obj\Debug\net8.0\RepairingTheClocktower.GeneratedMSBuildEditorConfig.editorconfig
+D:\Languages\C#\HomeWork\HomeWork1\RepairingTheClocktower\RepairingTheClocktower\obj\Debug\net8.0\RepairingTheClocktower.AssemblyInfoInputs.cache
+D:\Languages\C#\HomeWork\HomeWork1\RepairingTheClocktower\RepairingTheClocktower\obj\Debug\net8.0\RepairingTheClocktower.AssemblyInfo.cs
+D:\Languages\C#\HomeWork\HomeWork1\RepairingTheClocktower\RepairingTheClocktower\obj\Debug\net8.0\RepairingTheClocktower.csproj.CoreCompileInputs.cache
+D:\Languages\C#\HomeWork\HomeWork1\RepairingTheClocktower\RepairingTheClocktower\obj\Debug\net8.0\RepairingTheClocktower.dll
+D:\Languages\C#\HomeWork\HomeWork1\RepairingTheClocktower\RepairingTheClocktower\obj\Debug\net8.0\refint\RepairingTheClocktower.dll
+D:\Languages\C#\HomeWork\HomeWork1\RepairingTheClocktower\RepairingTheClocktower\obj\Debug\net8.0\RepairingTheClocktower.pdb
+D:\Languages\C#\HomeWork\HomeWork1\RepairingTheClocktower\RepairingTheClocktower\obj\Debug\net8.0\RepairingTheClocktower.genruntimeconfig.cache
+D:\Languages\C#\HomeWork\HomeWork1\RepairingTheClocktower\RepairingTheClocktower\obj\Debug\net8.0\ref\RepairingTheClocktower.dll

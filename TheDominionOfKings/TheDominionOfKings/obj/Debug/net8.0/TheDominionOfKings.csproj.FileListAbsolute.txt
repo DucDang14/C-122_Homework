@@ -1,0 +1,14 @@
+D:\Languages\C#\HomeWork\HomeWork1\TheDominionOfKings\TheDominionOfKings\bin\Debug\net8.0\TheDominionOfKings.exe
+D:\Languages\C#\HomeWork\HomeWork1\TheDominionOfKings\TheDominionOfKings\bin\Debug\net8.0\TheDominionOfKings.deps.json
+D:\Languages\C#\HomeWork\HomeWork1\TheDominionOfKings\TheDominionOfKings\bin\Debug\net8.0\TheDominionOfKings.runtimeconfig.json
+D:\Languages\C#\HomeWork\HomeWork1\TheDominionOfKings\TheDominionOfKings\bin\Debug\net8.0\TheDominionOfKings.dll
+D:\Languages\C#\HomeWork\HomeWork1\TheDominionOfKings\TheDominionOfKings\bin\Debug\net8.0\TheDominionOfKings.pdb
+D:\Languages\C#\HomeWork\HomeWork1\TheDominionOfKings\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Languages\C#\HomeWork\HomeWork1\TheDominionOfKings\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.AssemblyInfoInputs.cache
+D:\Languages\C#\HomeWork\HomeWork1\TheDominionOfKings\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.AssemblyInfo.cs
+D:\Languages\C#\HomeWork\HomeWork1\TheDominionOfKings\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.csproj.CoreCompileInputs.cache
+D:\Languages\C#\HomeWork\HomeWork1\TheDominionOfKings\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.dll
+D:\Languages\C#\HomeWork\HomeWork1\TheDominionOfKings\TheDominionOfKings\obj\Debug\net8.0\refint\TheDominionOfKings.dll
+D:\Languages\C#\HomeWork\HomeWork1\TheDominionOfKings\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.pdb
+D:\Languages\C#\HomeWork\HomeWork1\TheDominionOfKings\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.genruntimeconfig.cache
+D:\Languages\C#\HomeWork\HomeWork1\TheDominionOfKings\TheDominionOfKings\obj\Debug\net8.0\ref\TheDominionOfKings.dll
