@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Languages\\C#\\HomeWork\\HomeWork2\\BuyingInventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5824D993-B625-405A-8B07-FBBB1D7BDC58}|BuyingInventory\\BuyingInventory.csproj|d:\\languages\\c#\\homework\\homework2\\buyinginventory\\buyinginventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5824D993-B625-405A-8B07-FBBB1D7BDC58}|BuyingInventory\\BuyingInventory.csproj|solutionrelative:buyinginventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Languages\\C#\\HomeWork\\HomeWork2\\BuyingInventory\\BuyingInventory\\Program.cs",
+              "RelativeDocumentMoniker": "BuyingInventory\\Program.cs",
+              "ToolTip": "D:\\Languages\\C#\\HomeWork\\HomeWork2\\BuyingInventory\\BuyingInventory\\Program.cs*",
+              "RelativeToolTip": "BuyingInventory\\Program.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwC0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T03:08:06.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

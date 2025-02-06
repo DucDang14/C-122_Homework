@@ -1,0 +1,14 @@
+D:\Languages\C#\HomeWork\HomeWork2\TheReplicatorOfDTo\TheReplicatorOfDTo\bin\Debug\net8.0\TheReplicatorOfDTo.exe
+D:\Languages\C#\HomeWork\HomeWork2\TheReplicatorOfDTo\TheReplicatorOfDTo\bin\Debug\net8.0\TheReplicatorOfDTo.deps.json
+D:\Languages\C#\HomeWork\HomeWork2\TheReplicatorOfDTo\TheReplicatorOfDTo\bin\Debug\net8.0\TheReplicatorOfDTo.runtimeconfig.json
+D:\Languages\C#\HomeWork\HomeWork2\TheReplicatorOfDTo\TheReplicatorOfDTo\bin\Debug\net8.0\TheReplicatorOfDTo.dll
+D:\Languages\C#\HomeWork\HomeWork2\TheReplicatorOfDTo\TheReplicatorOfDTo\bin\Debug\net8.0\TheReplicatorOfDTo.pdb
+D:\Languages\C#\HomeWork\HomeWork2\TheReplicatorOfDTo\TheReplicatorOfDTo\obj\Debug\net8.0\TheReplicatorOfDTo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Languages\C#\HomeWork\HomeWork2\TheReplicatorOfDTo\TheReplicatorOfDTo\obj\Debug\net8.0\TheReplicatorOfDTo.AssemblyInfoInputs.cache
+D:\Languages\C#\HomeWork\HomeWork2\TheReplicatorOfDTo\TheReplicatorOfDTo\obj\Debug\net8.0\TheReplicatorOfDTo.AssemblyInfo.cs
+D:\Languages\C#\HomeWork\HomeWork2\TheReplicatorOfDTo\TheReplicatorOfDTo\obj\Debug\net8.0\TheReplicatorOfDTo.csproj.CoreCompileInputs.cache
+D:\Languages\C#\HomeWork\HomeWork2\TheReplicatorOfDTo\TheReplicatorOfDTo\obj\Debug\net8.0\TheReplicatorOfDTo.dll
+D:\Languages\C#\HomeWork\HomeWork2\TheReplicatorOfDTo\TheReplicatorOfDTo\obj\Debug\net8.0\refint\TheReplicatorOfDTo.dll
+D:\Languages\C#\HomeWork\HomeWork2\TheReplicatorOfDTo\TheReplicatorOfDTo\obj\Debug\net8.0\TheReplicatorOfDTo.pdb
+D:\Languages\C#\HomeWork\HomeWork2\TheReplicatorOfDTo\TheReplicatorOfDTo\obj\Debug\net8.0\TheReplicatorOfDTo.genruntimeconfig.cache
+D:\Languages\C#\HomeWork\HomeWork2\TheReplicatorOfDTo\TheReplicatorOfDTo\obj\Debug\net8.0\ref\TheReplicatorOfDTo.dll

@@ -1,0 +1,14 @@
+D:\Languages\C#\HomeWork\HomeWork2\ThePrototype\ThePrototype\bin\Debug\net8.0\ThePrototype.exe
+D:\Languages\C#\HomeWork\HomeWork2\ThePrototype\ThePrototype\bin\Debug\net8.0\ThePrototype.deps.json
+D:\Languages\C#\HomeWork\HomeWork2\ThePrototype\ThePrototype\bin\Debug\net8.0\ThePrototype.runtimeconfig.json
+D:\Languages\C#\HomeWork\HomeWork2\ThePrototype\ThePrototype\bin\Debug\net8.0\ThePrototype.dll
+D:\Languages\C#\HomeWork\HomeWork2\ThePrototype\ThePrototype\bin\Debug\net8.0\ThePrototype.pdb
+D:\Languages\C#\HomeWork\HomeWork2\ThePrototype\ThePrototype\obj\Debug\net8.0\ThePrototype.GeneratedMSBuildEditorConfig.editorconfig
+D:\Languages\C#\HomeWork\HomeWork2\ThePrototype\ThePrototype\obj\Debug\net8.0\ThePrototype.AssemblyInfoInputs.cache
+D:\Languages\C#\HomeWork\HomeWork2\ThePrototype\ThePrototype\obj\Debug\net8.0\ThePrototype.AssemblyInfo.cs
+D:\Languages\C#\HomeWork\HomeWork2\ThePrototype\ThePrototype\obj\Debug\net8.0\ThePrototype.csproj.CoreCompileInputs.cache
+D:\Languages\C#\HomeWork\HomeWork2\ThePrototype\ThePrototype\obj\Debug\net8.0\ThePrototype.dll
+D:\Languages\C#\HomeWork\HomeWork2\ThePrototype\ThePrototype\obj\Debug\net8.0\refint\ThePrototype.dll
+D:\Languages\C#\HomeWork\HomeWork2\ThePrototype\ThePrototype\obj\Debug\net8.0\ThePrototype.pdb
+D:\Languages\C#\HomeWork\HomeWork2\ThePrototype\ThePrototype\obj\Debug\net8.0\ThePrototype.genruntimeconfig.cache
+D:\Languages\C#\HomeWork\HomeWork2\ThePrototype\ThePrototype\obj\Debug\net8.0\ref\ThePrototype.dll

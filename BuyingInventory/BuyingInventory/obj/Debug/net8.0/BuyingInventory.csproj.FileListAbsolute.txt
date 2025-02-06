@@ -1,0 +1,14 @@
+D:\Languages\C#\HomeWork\HomeWork2\BuyingInventory\BuyingInventory\bin\Debug\net8.0\BuyingInventory.exe
+D:\Languages\C#\HomeWork\HomeWork2\BuyingInventory\BuyingInventory\bin\Debug\net8.0\BuyingInventory.deps.json
+D:\Languages\C#\HomeWork\HomeWork2\BuyingInventory\BuyingInventory\bin\Debug\net8.0\BuyingInventory.runtimeconfig.json
+D:\Languages\C#\HomeWork\HomeWork2\BuyingInventory\BuyingInventory\bin\Debug\net8.0\BuyingInventory.dll
+D:\Languages\C#\HomeWork\HomeWork2\BuyingInventory\BuyingInventory\bin\Debug\net8.0\BuyingInventory.pdb
+D:\Languages\C#\HomeWork\HomeWork2\BuyingInventory\BuyingInventory\obj\Debug\net8.0\BuyingInventory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Languages\C#\HomeWork\HomeWork2\BuyingInventory\BuyingInventory\obj\Debug\net8.0\BuyingInventory.AssemblyInfoInputs.cache
+D:\Languages\C#\HomeWork\HomeWork2\BuyingInventory\BuyingInventory\obj\Debug\net8.0\BuyingInventory.AssemblyInfo.cs
+D:\Languages\C#\HomeWork\HomeWork2\BuyingInventory\BuyingInventory\obj\Debug\net8.0\BuyingInventory.csproj.CoreCompileInputs.cache
+D:\Languages\C#\HomeWork\HomeWork2\BuyingInventory\BuyingInventory\obj\Debug\net8.0\BuyingInventory.dll
+D:\Languages\C#\HomeWork\HomeWork2\BuyingInventory\BuyingInventory\obj\Debug\net8.0\refint\BuyingInventory.dll
+D:\Languages\C#\HomeWork\HomeWork2\BuyingInventory\BuyingInventory\obj\Debug\net8.0\BuyingInventory.pdb
+D:\Languages\C#\HomeWork\HomeWork2\BuyingInventory\BuyingInventory\obj\Debug\net8.0\BuyingInventory.genruntimeconfig.cache
+D:\Languages\C#\HomeWork\HomeWork2\BuyingInventory\BuyingInventory\obj\Debug\net8.0\ref\BuyingInventory.dll

@@ -1,0 +1,14 @@
+D:\Languages\C#\HomeWork\HomeWork2\TheMagicCannon\TheMagicCannon\bin\Debug\net8.0\TheMagicCannon.exe
+D:\Languages\C#\HomeWork\HomeWork2\TheMagicCannon\TheMagicCannon\bin\Debug\net8.0\TheMagicCannon.deps.json
+D:\Languages\C#\HomeWork\HomeWork2\TheMagicCannon\TheMagicCannon\bin\Debug\net8.0\TheMagicCannon.runtimeconfig.json
+D:\Languages\C#\HomeWork\HomeWork2\TheMagicCannon\TheMagicCannon\bin\Debug\net8.0\TheMagicCannon.dll
+D:\Languages\C#\HomeWork\HomeWork2\TheMagicCannon\TheMagicCannon\bin\Debug\net8.0\TheMagicCannon.pdb
+D:\Languages\C#\HomeWork\HomeWork2\TheMagicCannon\TheMagicCannon\obj\Debug\net8.0\TheMagicCannon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Languages\C#\HomeWork\HomeWork2\TheMagicCannon\TheMagicCannon\obj\Debug\net8.0\TheMagicCannon.AssemblyInfoInputs.cache
+D:\Languages\C#\HomeWork\HomeWork2\TheMagicCannon\TheMagicCannon\obj\Debug\net8.0\TheMagicCannon.AssemblyInfo.cs
+D:\Languages\C#\HomeWork\HomeWork2\TheMagicCannon\TheMagicCannon\obj\Debug\net8.0\TheMagicCannon.csproj.CoreCompileInputs.cache
+D:\Languages\C#\HomeWork\HomeWork2\TheMagicCannon\TheMagicCannon\obj\Debug\net8.0\TheMagicCannon.dll
+D:\Languages\C#\HomeWork\HomeWork2\TheMagicCannon\TheMagicCannon\obj\Debug\net8.0\refint\TheMagicCannon.dll
+D:\Languages\C#\HomeWork\HomeWork2\TheMagicCannon\TheMagicCannon\obj\Debug\net8.0\TheMagicCannon.pdb
+D:\Languages\C#\HomeWork\HomeWork2\TheMagicCannon\TheMagicCannon\obj\Debug\net8.0\TheMagicCannon.genruntimeconfig.cache
+D:\Languages\C#\HomeWork\HomeWork2\TheMagicCannon\TheMagicCannon\obj\Debug\net8.0\ref\TheMagicCannon.dll

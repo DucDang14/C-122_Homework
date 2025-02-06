@@ -1,0 +1,14 @@
+D:\Languages\C#\HomeWork\HomeWork2\DiscountedInventory\DiscountedInventory\bin\Debug\net8.0\DiscountedInventory.exe
+D:\Languages\C#\HomeWork\HomeWork2\DiscountedInventory\DiscountedInventory\bin\Debug\net8.0\DiscountedInventory.deps.json
+D:\Languages\C#\HomeWork\HomeWork2\DiscountedInventory\DiscountedInventory\bin\Debug\net8.0\DiscountedInventory.runtimeconfig.json
+D:\Languages\C#\HomeWork\HomeWork2\DiscountedInventory\DiscountedInventory\bin\Debug\net8.0\DiscountedInventory.dll
+D:\Languages\C#\HomeWork\HomeWork2\DiscountedInventory\DiscountedInventory\bin\Debug\net8.0\DiscountedInventory.pdb
+D:\Languages\C#\HomeWork\HomeWork2\DiscountedInventory\DiscountedInventory\obj\Debug\net8.0\DiscountedInventory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Languages\C#\HomeWork\HomeWork2\DiscountedInventory\DiscountedInventory\obj\Debug\net8.0\DiscountedInventory.AssemblyInfoInputs.cache
+D:\Languages\C#\HomeWork\HomeWork2\DiscountedInventory\DiscountedInventory\obj\Debug\net8.0\DiscountedInventory.AssemblyInfo.cs
+D:\Languages\C#\HomeWork\HomeWork2\DiscountedInventory\DiscountedInventory\obj\Debug\net8.0\DiscountedInventory.csproj.CoreCompileInputs.cache
+D:\Languages\C#\HomeWork\HomeWork2\DiscountedInventory\DiscountedInventory\obj\Debug\net8.0\DiscountedInventory.dll
+D:\Languages\C#\HomeWork\HomeWork2\DiscountedInventory\DiscountedInventory\obj\Debug\net8.0\refint\DiscountedInventory.dll
+D:\Languages\C#\HomeWork\HomeWork2\DiscountedInventory\DiscountedInventory\obj\Debug\net8.0\DiscountedInventory.pdb
+D:\Languages\C#\HomeWork\HomeWork2\DiscountedInventory\DiscountedInventory\obj\Debug\net8.0\DiscountedInventory.genruntimeconfig.cache
+D:\Languages\C#\HomeWork\HomeWork2\DiscountedInventory\DiscountedInventory\obj\Debug\net8.0\ref\DiscountedInventory.dll

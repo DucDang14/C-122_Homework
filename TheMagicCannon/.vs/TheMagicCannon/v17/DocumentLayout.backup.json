@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Languages\\C#\\HomeWork\\HomeWork2\\TheMagicCannon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2312E3B0-29B1-4680-8D29-C59CF5306667}|TheMagicCannon\\TheMagicCannon.csproj|d:\\languages\\c#\\homework\\homework2\\themagiccannon\\themagiccannon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2312E3B0-29B1-4680-8D29-C59CF5306667}|TheMagicCannon\\TheMagicCannon.csproj|solutionrelative:themagiccannon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Languages\\C#\\HomeWork\\HomeWork2\\TheMagicCannon\\TheMagicCannon\\Program.cs",
+              "RelativeDocumentMoniker": "TheMagicCannon\\Program.cs",
+              "ToolTip": "D:\\Languages\\C#\\HomeWork\\HomeWork2\\TheMagicCannon\\TheMagicCannon\\Program.cs*",
+              "RelativeToolTip": "TheMagicCannon\\Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T03:15:30.501Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
