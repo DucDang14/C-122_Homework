@@ -1,0 +1,14 @@
+D:\Languages\C#\HomeWork\HomeWork3\ThePropertiesOfArrows\ThePropertiesOfArrows\obj\Debug\net8.0\ThePropertiesOfArrows.GeneratedMSBuildEditorConfig.editorconfig
+D:\Languages\C#\HomeWork\HomeWork3\ThePropertiesOfArrows\ThePropertiesOfArrows\obj\Debug\net8.0\ThePropertiesOfArrows.AssemblyInfoInputs.cache
+D:\Languages\C#\HomeWork\HomeWork3\ThePropertiesOfArrows\ThePropertiesOfArrows\obj\Debug\net8.0\ThePropertiesOfArrows.AssemblyInfo.cs
+D:\Languages\C#\HomeWork\HomeWork3\ThePropertiesOfArrows\ThePropertiesOfArrows\obj\Debug\net8.0\ThePropertiesOfArrows.csproj.CoreCompileInputs.cache
+D:\Languages\C#\HomeWork\HomeWork3\ThePropertiesOfArrows\ThePropertiesOfArrows\bin\Debug\net8.0\ThePropertiesOfArrows.exe
+D:\Languages\C#\HomeWork\HomeWork3\ThePropertiesOfArrows\ThePropertiesOfArrows\bin\Debug\net8.0\ThePropertiesOfArrows.deps.json
+D:\Languages\C#\HomeWork\HomeWork3\ThePropertiesOfArrows\ThePropertiesOfArrows\bin\Debug\net8.0\ThePropertiesOfArrows.runtimeconfig.json
+D:\Languages\C#\HomeWork\HomeWork3\ThePropertiesOfArrows\ThePropertiesOfArrows\bin\Debug\net8.0\ThePropertiesOfArrows.dll
+D:\Languages\C#\HomeWork\HomeWork3\ThePropertiesOfArrows\ThePropertiesOfArrows\bin\Debug\net8.0\ThePropertiesOfArrows.pdb
+D:\Languages\C#\HomeWork\HomeWork3\ThePropertiesOfArrows\ThePropertiesOfArrows\obj\Debug\net8.0\ThePropertiesOfArrows.dll
+D:\Languages\C#\HomeWork\HomeWork3\ThePropertiesOfArrows\ThePropertiesOfArrows\obj\Debug\net8.0\refint\ThePropertiesOfArrows.dll
+D:\Languages\C#\HomeWork\HomeWork3\ThePropertiesOfArrows\ThePropertiesOfArrows\obj\Debug\net8.0\ThePropertiesOfArrows.pdb
+D:\Languages\C#\HomeWork\HomeWork3\ThePropertiesOfArrows\ThePropertiesOfArrows\obj\Debug\net8.0\ThePropertiesOfArrows.genruntimeconfig.cache
+D:\Languages\C#\HomeWork\HomeWork3\ThePropertiesOfArrows\ThePropertiesOfArrows\obj\Debug\net8.0\ref\ThePropertiesOfArrows.dll

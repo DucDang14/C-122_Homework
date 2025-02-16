@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Languages\\C#\\FiveMethod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D27C3DAE-8F9D-4C4E-BB01-58E7D593EAF1}|FiveMethod\\FiveMethod.csproj|d:\\languages\\c#\\fivemethod\\fivemethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27C3DAE-8F9D-4C4E-BB01-58E7D593EAF1}|FiveMethod\\FiveMethod.csproj|solutionrelative:fivemethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27C3DAE-8F9D-4C4E-BB01-58E7D593EAF1}|FiveMethod\\FiveMethod.csproj|d:\\languages\\c#\\fivemethod\\fivemethod\\method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27C3DAE-8F9D-4C4E-BB01-58E7D593EAF1}|FiveMethod\\FiveMethod.csproj|solutionrelative:fivemethod\\method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Method.cs",
+              "DocumentMoniker": "D:\\Languages\\C#\\FiveMethod\\FiveMethod\\Method.cs",
+              "RelativeDocumentMoniker": "FiveMethod\\Method.cs",
+              "ToolTip": "D:\\Languages\\C#\\FiveMethod\\FiveMethod\\Method.cs",
+              "RelativeToolTip": "FiveMethod\\Method.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwEIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T21:15:39.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Languages\\C#\\FiveMethod\\FiveMethod\\Program.cs",
+              "RelativeDocumentMoniker": "FiveMethod\\Program.cs",
+              "ToolTip": "D:\\Languages\\C#\\FiveMethod\\FiveMethod\\Program.cs",
+              "RelativeToolTip": "FiveMethod\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T19:07:03.864Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

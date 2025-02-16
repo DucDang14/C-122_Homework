@@ -1,0 +1,14 @@
+D:\Languages\C#\BossBattleHuntingTheManticore\BossBattleHuntingTheManticore\bin\Debug\net8.0\BossBattleHuntingTheManticore.exe
+D:\Languages\C#\BossBattleHuntingTheManticore\BossBattleHuntingTheManticore\bin\Debug\net8.0\BossBattleHuntingTheManticore.deps.json
+D:\Languages\C#\BossBattleHuntingTheManticore\BossBattleHuntingTheManticore\bin\Debug\net8.0\BossBattleHuntingTheManticore.runtimeconfig.json
+D:\Languages\C#\BossBattleHuntingTheManticore\BossBattleHuntingTheManticore\bin\Debug\net8.0\BossBattleHuntingTheManticore.dll
+D:\Languages\C#\BossBattleHuntingTheManticore\BossBattleHuntingTheManticore\bin\Debug\net8.0\BossBattleHuntingTheManticore.pdb
+D:\Languages\C#\BossBattleHuntingTheManticore\BossBattleHuntingTheManticore\obj\Debug\net8.0\BossBattleHuntingTheManticore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Languages\C#\BossBattleHuntingTheManticore\BossBattleHuntingTheManticore\obj\Debug\net8.0\BossBattleHuntingTheManticore.AssemblyInfoInputs.cache
+D:\Languages\C#\BossBattleHuntingTheManticore\BossBattleHuntingTheManticore\obj\Debug\net8.0\BossBattleHuntingTheManticore.AssemblyInfo.cs
+D:\Languages\C#\BossBattleHuntingTheManticore\BossBattleHuntingTheManticore\obj\Debug\net8.0\BossBattleHuntingTheManticore.csproj.CoreCompileInputs.cache
+D:\Languages\C#\BossBattleHuntingTheManticore\BossBattleHuntingTheManticore\obj\Debug\net8.0\BossBattleHuntingTheManticore.dll
+D:\Languages\C#\BossBattleHuntingTheManticore\BossBattleHuntingTheManticore\obj\Debug\net8.0\refint\BossBattleHuntingTheManticore.dll
+D:\Languages\C#\BossBattleHuntingTheManticore\BossBattleHuntingTheManticore\obj\Debug\net8.0\BossBattleHuntingTheManticore.pdb
+D:\Languages\C#\BossBattleHuntingTheManticore\BossBattleHuntingTheManticore\obj\Debug\net8.0\BossBattleHuntingTheManticore.genruntimeconfig.cache
+D:\Languages\C#\BossBattleHuntingTheManticore\BossBattleHuntingTheManticore\obj\Debug\net8.0\ref\BossBattleHuntingTheManticore.dll

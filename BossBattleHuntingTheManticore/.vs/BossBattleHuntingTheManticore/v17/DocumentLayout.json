@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Languages\\C#\\BossBattleHuntingTheManticore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A508E4E-6E24-495D-BC11-091942787AEE}|BossBattleHuntingTheManticore\\BossBattleHuntingTheManticore.csproj|d:\\languages\\c#\\bossbattlehuntingthemanticore\\bossbattlehuntingthemanticore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A508E4E-6E24-495D-BC11-091942787AEE}|BossBattleHuntingTheManticore\\BossBattleHuntingTheManticore.csproj|solutionrelative:bossbattlehuntingthemanticore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A508E4E-6E24-495D-BC11-091942787AEE}|BossBattleHuntingTheManticore\\BossBattleHuntingTheManticore.csproj|d:\\languages\\c#\\bossbattlehuntingthemanticore\\bossbattlehuntingthemanticore\\hunting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A508E4E-6E24-495D-BC11-091942787AEE}|BossBattleHuntingTheManticore\\BossBattleHuntingTheManticore.csproj|solutionrelative:bossbattlehuntingthemanticore\\hunting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hunting.cs",
+              "DocumentMoniker": "D:\\Languages\\C#\\BossBattleHuntingTheManticore\\BossBattleHuntingTheManticore\\Hunting.cs",
+              "RelativeDocumentMoniker": "BossBattleHuntingTheManticore\\Hunting.cs",
+              "ToolTip": "D:\\Languages\\C#\\BossBattleHuntingTheManticore\\BossBattleHuntingTheManticore\\Hunting.cs",
+              "RelativeToolTip": "BossBattleHuntingTheManticore\\Hunting.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwE4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T16:47:09.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Languages\\C#\\BossBattleHuntingTheManticore\\BossBattleHuntingTheManticore\\Program.cs",
+              "RelativeDocumentMoniker": "BossBattleHuntingTheManticore\\Program.cs",
+              "ToolTip": "D:\\Languages\\C#\\BossBattleHuntingTheManticore\\BossBattleHuntingTheManticore\\Program.cs",
+              "RelativeToolTip": "BossBattleHuntingTheManticore\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCwAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T19:00:38.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

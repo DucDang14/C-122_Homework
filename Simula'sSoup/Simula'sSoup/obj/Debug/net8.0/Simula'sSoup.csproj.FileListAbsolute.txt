@@ -1,0 +1,14 @@
+D:\Languages\C#\Simula'sSoup\Simula'sSoup\bin\Debug\net8.0\Simula'sSoup.exe
+D:\Languages\C#\Simula'sSoup\Simula'sSoup\bin\Debug\net8.0\Simula'sSoup.deps.json
+D:\Languages\C#\Simula'sSoup\Simula'sSoup\bin\Debug\net8.0\Simula'sSoup.runtimeconfig.json
+D:\Languages\C#\Simula'sSoup\Simula'sSoup\bin\Debug\net8.0\Simula'sSoup.dll
+D:\Languages\C#\Simula'sSoup\Simula'sSoup\bin\Debug\net8.0\Simula'sSoup.pdb
+D:\Languages\C#\Simula'sSoup\Simula'sSoup\obj\Debug\net8.0\Simula'sSoup.GeneratedMSBuildEditorConfig.editorconfig
+D:\Languages\C#\Simula'sSoup\Simula'sSoup\obj\Debug\net8.0\Simula'sSoup.AssemblyInfoInputs.cache
+D:\Languages\C#\Simula'sSoup\Simula'sSoup\obj\Debug\net8.0\Simula'sSoup.AssemblyInfo.cs
+D:\Languages\C#\Simula'sSoup\Simula'sSoup\obj\Debug\net8.0\Simula'sSoup.csproj.CoreCompileInputs.cache
+D:\Languages\C#\Simula'sSoup\Simula'sSoup\obj\Debug\net8.0\Simula'sSoup.dll
+D:\Languages\C#\Simula'sSoup\Simula'sSoup\obj\Debug\net8.0\refint\Simula'sSoup.dll
+D:\Languages\C#\Simula'sSoup\Simula'sSoup\obj\Debug\net8.0\Simula'sSoup.pdb
+D:\Languages\C#\Simula'sSoup\Simula'sSoup\obj\Debug\net8.0\Simula'sSoup.genruntimeconfig.cache
+D:\Languages\C#\Simula'sSoup\Simula'sSoup\obj\Debug\net8.0\ref\Simula'sSoup.dll

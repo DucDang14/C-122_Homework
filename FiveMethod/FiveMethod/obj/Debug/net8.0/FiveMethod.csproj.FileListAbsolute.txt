@@ -1,0 +1,14 @@
+D:\Languages\C#\FiveMethod\FiveMethod\bin\Debug\net8.0\FiveMethod.exe
+D:\Languages\C#\FiveMethod\FiveMethod\bin\Debug\net8.0\FiveMethod.deps.json
+D:\Languages\C#\FiveMethod\FiveMethod\bin\Debug\net8.0\FiveMethod.runtimeconfig.json
+D:\Languages\C#\FiveMethod\FiveMethod\bin\Debug\net8.0\FiveMethod.dll
+D:\Languages\C#\FiveMethod\FiveMethod\bin\Debug\net8.0\FiveMethod.pdb
+D:\Languages\C#\FiveMethod\FiveMethod\obj\Debug\net8.0\FiveMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Languages\C#\FiveMethod\FiveMethod\obj\Debug\net8.0\FiveMethod.AssemblyInfoInputs.cache
+D:\Languages\C#\FiveMethod\FiveMethod\obj\Debug\net8.0\FiveMethod.AssemblyInfo.cs
+D:\Languages\C#\FiveMethod\FiveMethod\obj\Debug\net8.0\FiveMethod.csproj.CoreCompileInputs.cache
+D:\Languages\C#\FiveMethod\FiveMethod\obj\Debug\net8.0\FiveMethod.dll
+D:\Languages\C#\FiveMethod\FiveMethod\obj\Debug\net8.0\refint\FiveMethod.dll
+D:\Languages\C#\FiveMethod\FiveMethod\obj\Debug\net8.0\FiveMethod.pdb
+D:\Languages\C#\FiveMethod\FiveMethod\obj\Debug\net8.0\FiveMethod.genruntimeconfig.cache
+D:\Languages\C#\FiveMethod\FiveMethod\obj\Debug\net8.0\ref\FiveMethod.dll
