@@ -1,0 +1,14 @@
+D:\Languages\C#\HomeWork\HomeWork5\ShapesAndAreas\ShapesAndAreas\obj\Debug\net8.0\ShapesAndAreas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Languages\C#\HomeWork\HomeWork5\ShapesAndAreas\ShapesAndAreas\obj\Debug\net8.0\ShapesAndAreas.AssemblyInfoInputs.cache
+D:\Languages\C#\HomeWork\HomeWork5\ShapesAndAreas\ShapesAndAreas\obj\Debug\net8.0\ShapesAndAreas.AssemblyInfo.cs
+D:\Languages\C#\HomeWork\HomeWork5\ShapesAndAreas\ShapesAndAreas\obj\Debug\net8.0\ShapesAndAreas.csproj.CoreCompileInputs.cache
+D:\Languages\C#\HomeWork\HomeWork5\ShapesAndAreas\ShapesAndAreas\bin\Debug\net8.0\ShapesAndAreas.exe
+D:\Languages\C#\HomeWork\HomeWork5\ShapesAndAreas\ShapesAndAreas\bin\Debug\net8.0\ShapesAndAreas.deps.json
+D:\Languages\C#\HomeWork\HomeWork5\ShapesAndAreas\ShapesAndAreas\bin\Debug\net8.0\ShapesAndAreas.runtimeconfig.json
+D:\Languages\C#\HomeWork\HomeWork5\ShapesAndAreas\ShapesAndAreas\bin\Debug\net8.0\ShapesAndAreas.dll
+D:\Languages\C#\HomeWork\HomeWork5\ShapesAndAreas\ShapesAndAreas\bin\Debug\net8.0\ShapesAndAreas.pdb
+D:\Languages\C#\HomeWork\HomeWork5\ShapesAndAreas\ShapesAndAreas\obj\Debug\net8.0\ShapesAndAreas.dll
+D:\Languages\C#\HomeWork\HomeWork5\ShapesAndAreas\ShapesAndAreas\obj\Debug\net8.0\refint\ShapesAndAreas.dll
+D:\Languages\C#\HomeWork\HomeWork5\ShapesAndAreas\ShapesAndAreas\obj\Debug\net8.0\ShapesAndAreas.pdb
+D:\Languages\C#\HomeWork\HomeWork5\ShapesAndAreas\ShapesAndAreas\obj\Debug\net8.0\ShapesAndAreas.genruntimeconfig.cache
+D:\Languages\C#\HomeWork\HomeWork5\ShapesAndAreas\ShapesAndAreas\obj\Debug\net8.0\ref\ShapesAndAreas.dll

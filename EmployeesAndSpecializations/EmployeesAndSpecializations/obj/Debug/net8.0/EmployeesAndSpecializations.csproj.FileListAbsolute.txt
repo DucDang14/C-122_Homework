@@ -1,0 +1,14 @@
+D:\Languages\C#\HomeWork\HomeWork5\EmployeesAndSpecializations\EmployeesAndSpecializations\bin\Debug\net8.0\EmployeesAndSpecializations.exe
+D:\Languages\C#\HomeWork\HomeWork5\EmployeesAndSpecializations\EmployeesAndSpecializations\bin\Debug\net8.0\EmployeesAndSpecializations.deps.json
+D:\Languages\C#\HomeWork\HomeWork5\EmployeesAndSpecializations\EmployeesAndSpecializations\bin\Debug\net8.0\EmployeesAndSpecializations.runtimeconfig.json
+D:\Languages\C#\HomeWork\HomeWork5\EmployeesAndSpecializations\EmployeesAndSpecializations\bin\Debug\net8.0\EmployeesAndSpecializations.dll
+D:\Languages\C#\HomeWork\HomeWork5\EmployeesAndSpecializations\EmployeesAndSpecializations\bin\Debug\net8.0\EmployeesAndSpecializations.pdb
+D:\Languages\C#\HomeWork\HomeWork5\EmployeesAndSpecializations\EmployeesAndSpecializations\obj\Debug\net8.0\EmployeesAndSpecializations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Languages\C#\HomeWork\HomeWork5\EmployeesAndSpecializations\EmployeesAndSpecializations\obj\Debug\net8.0\EmployeesAndSpecializations.AssemblyInfoInputs.cache
+D:\Languages\C#\HomeWork\HomeWork5\EmployeesAndSpecializations\EmployeesAndSpecializations\obj\Debug\net8.0\EmployeesAndSpecializations.AssemblyInfo.cs
+D:\Languages\C#\HomeWork\HomeWork5\EmployeesAndSpecializations\EmployeesAndSpecializations\obj\Debug\net8.0\EmployeesAndSpecializations.csproj.CoreCompileInputs.cache
+D:\Languages\C#\HomeWork\HomeWork5\EmployeesAndSpecializations\EmployeesAndSpecializations\obj\Debug\net8.0\EmployeesAndSpecializations.dll
+D:\Languages\C#\HomeWork\HomeWork5\EmployeesAndSpecializations\EmployeesAndSpecializations\obj\Debug\net8.0\refint\EmployeesAndSpecializations.dll
+D:\Languages\C#\HomeWork\HomeWork5\EmployeesAndSpecializations\EmployeesAndSpecializations\obj\Debug\net8.0\EmployeesAndSpecializations.pdb
+D:\Languages\C#\HomeWork\HomeWork5\EmployeesAndSpecializations\EmployeesAndSpecializations\obj\Debug\net8.0\EmployeesAndSpecializations.genruntimeconfig.cache
+D:\Languages\C#\HomeWork\HomeWork5\EmployeesAndSpecializations\EmployeesAndSpecializations\obj\Debug\net8.0\ref\EmployeesAndSpecializations.dll

@@ -1,0 +1,14 @@
+D:\Languages\C#\HomeWork\HomeWork5\AnimalsAndSounds\AnimalsAndSounds\bin\Debug\net8.0\AnimalsAndSounds.exe
+D:\Languages\C#\HomeWork\HomeWork5\AnimalsAndSounds\AnimalsAndSounds\bin\Debug\net8.0\AnimalsAndSounds.deps.json
+D:\Languages\C#\HomeWork\HomeWork5\AnimalsAndSounds\AnimalsAndSounds\bin\Debug\net8.0\AnimalsAndSounds.runtimeconfig.json
+D:\Languages\C#\HomeWork\HomeWork5\AnimalsAndSounds\AnimalsAndSounds\bin\Debug\net8.0\AnimalsAndSounds.dll
+D:\Languages\C#\HomeWork\HomeWork5\AnimalsAndSounds\AnimalsAndSounds\bin\Debug\net8.0\AnimalsAndSounds.pdb
+D:\Languages\C#\HomeWork\HomeWork5\AnimalsAndSounds\AnimalsAndSounds\obj\Debug\net8.0\AnimalsAndSounds.GeneratedMSBuildEditorConfig.editorconfig
+D:\Languages\C#\HomeWork\HomeWork5\AnimalsAndSounds\AnimalsAndSounds\obj\Debug\net8.0\AnimalsAndSounds.AssemblyInfoInputs.cache
+D:\Languages\C#\HomeWork\HomeWork5\AnimalsAndSounds\AnimalsAndSounds\obj\Debug\net8.0\AnimalsAndSounds.AssemblyInfo.cs
+D:\Languages\C#\HomeWork\HomeWork5\AnimalsAndSounds\AnimalsAndSounds\obj\Debug\net8.0\AnimalsAndSounds.csproj.CoreCompileInputs.cache
+D:\Languages\C#\HomeWork\HomeWork5\AnimalsAndSounds\AnimalsAndSounds\obj\Debug\net8.0\AnimalsAndSounds.dll
+D:\Languages\C#\HomeWork\HomeWork5\AnimalsAndSounds\AnimalsAndSounds\obj\Debug\net8.0\refint\AnimalsAndSounds.dll
+D:\Languages\C#\HomeWork\HomeWork5\AnimalsAndSounds\AnimalsAndSounds\obj\Debug\net8.0\AnimalsAndSounds.pdb
+D:\Languages\C#\HomeWork\HomeWork5\AnimalsAndSounds\AnimalsAndSounds\obj\Debug\net8.0\AnimalsAndSounds.genruntimeconfig.cache
+D:\Languages\C#\HomeWork\HomeWork5\AnimalsAndSounds\AnimalsAndSounds\obj\Debug\net8.0\ref\AnimalsAndSounds.dll

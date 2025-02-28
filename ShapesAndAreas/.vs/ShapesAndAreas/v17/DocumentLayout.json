@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Languages\\C#\\HomeWork\\HomeWork5\\ShapesAndAreas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{893D4CD5-9290-479C-82F4-A869BFB4A1D7}|ShapesAndAreas\\ShapesAndAreas.csproj|d:\\languages\\c#\\homework\\homework5\\shapesandareas\\shapesandareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893D4CD5-9290-479C-82F4-A869BFB4A1D7}|ShapesAndAreas\\ShapesAndAreas.csproj|solutionrelative:shapesandareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893D4CD5-9290-479C-82F4-A869BFB4A1D7}|ShapesAndAreas\\ShapesAndAreas.csproj|d:\\languages\\c#\\homework\\homework5\\shapesandareas\\shapesandareas\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893D4CD5-9290-479C-82F4-A869BFB4A1D7}|ShapesAndAreas\\ShapesAndAreas.csproj|solutionrelative:shapesandareas\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\Languages\\C#\\HomeWork\\HomeWork5\\ShapesAndAreas\\ShapesAndAreas\\Shape.cs",
+              "RelativeDocumentMoniker": "ShapesAndAreas\\Shape.cs",
+              "ToolTip": "D:\\Languages\\C#\\HomeWork\\HomeWork5\\ShapesAndAreas\\ShapesAndAreas\\Shape.cs",
+              "RelativeToolTip": "ShapesAndAreas\\Shape.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAUwFkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:27:07.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Languages\\C#\\HomeWork\\HomeWork5\\ShapesAndAreas\\ShapesAndAreas\\Program.cs",
+              "RelativeDocumentMoniker": "ShapesAndAreas\\Program.cs",
+              "ToolTip": "D:\\Languages\\C#\\HomeWork\\HomeWork5\\ShapesAndAreas\\ShapesAndAreas\\Program.cs",
+              "RelativeToolTip": "ShapesAndAreas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T21:01:16.372Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

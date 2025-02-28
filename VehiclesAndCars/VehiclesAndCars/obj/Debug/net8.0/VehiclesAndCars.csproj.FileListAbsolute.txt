@@ -1,0 +1,14 @@
+D:\Languages\C#\HomeWork\HomeWork5\VehiclesAndCars\VehiclesAndCars\bin\Debug\net8.0\VehiclesAndCars.exe
+D:\Languages\C#\HomeWork\HomeWork5\VehiclesAndCars\VehiclesAndCars\bin\Debug\net8.0\VehiclesAndCars.deps.json
+D:\Languages\C#\HomeWork\HomeWork5\VehiclesAndCars\VehiclesAndCars\bin\Debug\net8.0\VehiclesAndCars.runtimeconfig.json
+D:\Languages\C#\HomeWork\HomeWork5\VehiclesAndCars\VehiclesAndCars\bin\Debug\net8.0\VehiclesAndCars.dll
+D:\Languages\C#\HomeWork\HomeWork5\VehiclesAndCars\VehiclesAndCars\bin\Debug\net8.0\VehiclesAndCars.pdb
+D:\Languages\C#\HomeWork\HomeWork5\VehiclesAndCars\VehiclesAndCars\obj\Debug\net8.0\VehiclesAndCars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Languages\C#\HomeWork\HomeWork5\VehiclesAndCars\VehiclesAndCars\obj\Debug\net8.0\VehiclesAndCars.AssemblyInfoInputs.cache
+D:\Languages\C#\HomeWork\HomeWork5\VehiclesAndCars\VehiclesAndCars\obj\Debug\net8.0\VehiclesAndCars.AssemblyInfo.cs
+D:\Languages\C#\HomeWork\HomeWork5\VehiclesAndCars\VehiclesAndCars\obj\Debug\net8.0\VehiclesAndCars.csproj.CoreCompileInputs.cache
+D:\Languages\C#\HomeWork\HomeWork5\VehiclesAndCars\VehiclesAndCars\obj\Debug\net8.0\VehiclesAndCars.dll
+D:\Languages\C#\HomeWork\HomeWork5\VehiclesAndCars\VehiclesAndCars\obj\Debug\net8.0\refint\VehiclesAndCars.dll
+D:\Languages\C#\HomeWork\HomeWork5\VehiclesAndCars\VehiclesAndCars\obj\Debug\net8.0\VehiclesAndCars.pdb
+D:\Languages\C#\HomeWork\HomeWork5\VehiclesAndCars\VehiclesAndCars\obj\Debug\net8.0\VehiclesAndCars.genruntimeconfig.cache
+D:\Languages\C#\HomeWork\HomeWork5\VehiclesAndCars\VehiclesAndCars\obj\Debug\net8.0\ref\VehiclesAndCars.dll
