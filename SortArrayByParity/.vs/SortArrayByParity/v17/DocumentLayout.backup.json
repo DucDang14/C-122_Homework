@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Languages\\C#\\SortArrayByParity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B415E576-3AE9-4BFA-B492-C325EBDD4E2F}|SortArrayByParity\\SortArrayByParity.csproj|d:\\languages\\c#\\sortarraybyparity\\sortarraybyparity\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B415E576-3AE9-4BFA-B492-C325EBDD4E2F}|SortArrayByParity\\SortArrayByParity.csproj|solutionrelative:sortarraybyparity\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B415E576-3AE9-4BFA-B492-C325EBDD4E2F}|SortArrayByParity\\SortArrayByParity.csproj|d:\\languages\\c#\\sortarraybyparity\\sortarraybyparity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B415E576-3AE9-4BFA-B492-C325EBDD4E2F}|SortArrayByParity\\SortArrayByParity.csproj|solutionrelative:sortarraybyparity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Solution.cs",
+              "DocumentMoniker": "D:\\Languages\\C#\\SortArrayByParity\\SortArrayByParity\\Solution.cs",
+              "RelativeDocumentMoniker": "SortArrayByParity\\Solution.cs",
+              "ToolTip": "D:\\Languages\\C#\\SortArrayByParity\\SortArrayByParity\\Solution.cs*",
+              "RelativeToolTip": "SortArrayByParity\\Solution.cs*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T02:51:23.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Languages\\C#\\SortArrayByParity\\SortArrayByParity\\Program.cs",
+              "RelativeDocumentMoniker": "SortArrayByParity\\Program.cs",
+              "ToolTip": "D:\\Languages\\C#\\SortArrayByParity\\SortArrayByParity\\Program.cs",
+              "RelativeToolTip": "SortArrayByParity\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T02:50:47.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
