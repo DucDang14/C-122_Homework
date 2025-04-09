@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Languages\\C#\\HomeWork\\HomeWork7\\MaximumNumberOfBalloons\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2202D4-CF94-416E-A0C6-954E06A3F257}|MaximumNumberOfBalloons\\MaximumNumberOfBalloons.csproj|d:\\languages\\c#\\homework\\homework7\\maximumnumberofballoons\\maximumnumberofballoons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2202D4-CF94-416E-A0C6-954E06A3F257}|MaximumNumberOfBalloons\\MaximumNumberOfBalloons.csproj|solutionrelative:maximumnumberofballoons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Languages\\C#\\HomeWork\\HomeWork7\\MaximumNumberOfBalloons\\MaximumNumberOfBalloons\\Program.cs",
+              "RelativeDocumentMoniker": "MaximumNumberOfBalloons\\Program.cs",
+              "ToolTip": "D:\\Languages\\C#\\HomeWork\\HomeWork7\\MaximumNumberOfBalloons\\MaximumNumberOfBalloons\\Program.cs",
+              "RelativeToolTip": "MaximumNumberOfBalloons\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T13:32:30.785Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

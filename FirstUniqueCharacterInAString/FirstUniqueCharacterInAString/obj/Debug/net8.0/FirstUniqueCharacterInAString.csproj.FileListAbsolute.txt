@@ -1,0 +1,14 @@
+D:\Languages\C#\HomeWork\HomeWork7\FirstUniqueCharacterInAString\FirstUniqueCharacterInAString\bin\Debug\net8.0\FirstUniqueCharacterInAString.exe
+D:\Languages\C#\HomeWork\HomeWork7\FirstUniqueCharacterInAString\FirstUniqueCharacterInAString\bin\Debug\net8.0\FirstUniqueCharacterInAString.deps.json
+D:\Languages\C#\HomeWork\HomeWork7\FirstUniqueCharacterInAString\FirstUniqueCharacterInAString\bin\Debug\net8.0\FirstUniqueCharacterInAString.runtimeconfig.json
+D:\Languages\C#\HomeWork\HomeWork7\FirstUniqueCharacterInAString\FirstUniqueCharacterInAString\bin\Debug\net8.0\FirstUniqueCharacterInAString.dll
+D:\Languages\C#\HomeWork\HomeWork7\FirstUniqueCharacterInAString\FirstUniqueCharacterInAString\bin\Debug\net8.0\FirstUniqueCharacterInAString.pdb
+D:\Languages\C#\HomeWork\HomeWork7\FirstUniqueCharacterInAString\FirstUniqueCharacterInAString\obj\Debug\net8.0\FirstUniqueCharacterInAString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Languages\C#\HomeWork\HomeWork7\FirstUniqueCharacterInAString\FirstUniqueCharacterInAString\obj\Debug\net8.0\FirstUniqueCharacterInAString.AssemblyInfoInputs.cache
+D:\Languages\C#\HomeWork\HomeWork7\FirstUniqueCharacterInAString\FirstUniqueCharacterInAString\obj\Debug\net8.0\FirstUniqueCharacterInAString.AssemblyInfo.cs
+D:\Languages\C#\HomeWork\HomeWork7\FirstUniqueCharacterInAString\FirstUniqueCharacterInAString\obj\Debug\net8.0\FirstUniqueCharacterInAString.csproj.CoreCompileInputs.cache
+D:\Languages\C#\HomeWork\HomeWork7\FirstUniqueCharacterInAString\FirstUniqueCharacterInAString\obj\Debug\net8.0\FirstUniqueCharacterInAString.dll
+D:\Languages\C#\HomeWork\HomeWork7\FirstUniqueCharacterInAString\FirstUniqueCharacterInAString\obj\Debug\net8.0\refint\FirstUniqueCharacterInAString.dll
+D:\Languages\C#\HomeWork\HomeWork7\FirstUniqueCharacterInAString\FirstUniqueCharacterInAString\obj\Debug\net8.0\FirstUniqueCharacterInAString.pdb
+D:\Languages\C#\HomeWork\HomeWork7\FirstUniqueCharacterInAString\FirstUniqueCharacterInAString\obj\Debug\net8.0\FirstUniqueCharacterInAString.genruntimeconfig.cache
+D:\Languages\C#\HomeWork\HomeWork7\FirstUniqueCharacterInAString\FirstUniqueCharacterInAString\obj\Debug\net8.0\ref\FirstUniqueCharacterInAString.dll

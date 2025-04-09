@@ -1,0 +1,14 @@
+D:\Languages\C#\HomeWork\HomeWork7\RobotReturnToOrigin\RobotReturnToOrigin\bin\Debug\net8.0\RobotReturnToOrigin.exe
+D:\Languages\C#\HomeWork\HomeWork7\RobotReturnToOrigin\RobotReturnToOrigin\bin\Debug\net8.0\RobotReturnToOrigin.deps.json
+D:\Languages\C#\HomeWork\HomeWork7\RobotReturnToOrigin\RobotReturnToOrigin\bin\Debug\net8.0\RobotReturnToOrigin.runtimeconfig.json
+D:\Languages\C#\HomeWork\HomeWork7\RobotReturnToOrigin\RobotReturnToOrigin\bin\Debug\net8.0\RobotReturnToOrigin.dll
+D:\Languages\C#\HomeWork\HomeWork7\RobotReturnToOrigin\RobotReturnToOrigin\bin\Debug\net8.0\RobotReturnToOrigin.pdb
+D:\Languages\C#\HomeWork\HomeWork7\RobotReturnToOrigin\RobotReturnToOrigin\obj\Debug\net8.0\RobotReturnToOrigin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Languages\C#\HomeWork\HomeWork7\RobotReturnToOrigin\RobotReturnToOrigin\obj\Debug\net8.0\RobotReturnToOrigin.AssemblyInfoInputs.cache
+D:\Languages\C#\HomeWork\HomeWork7\RobotReturnToOrigin\RobotReturnToOrigin\obj\Debug\net8.0\RobotReturnToOrigin.AssemblyInfo.cs
+D:\Languages\C#\HomeWork\HomeWork7\RobotReturnToOrigin\RobotReturnToOrigin\obj\Debug\net8.0\RobotReturnToOrigin.csproj.CoreCompileInputs.cache
+D:\Languages\C#\HomeWork\HomeWork7\RobotReturnToOrigin\RobotReturnToOrigin\obj\Debug\net8.0\RobotReturnToOrigin.dll
+D:\Languages\C#\HomeWork\HomeWork7\RobotReturnToOrigin\RobotReturnToOrigin\obj\Debug\net8.0\refint\RobotReturnToOrigin.dll
+D:\Languages\C#\HomeWork\HomeWork7\RobotReturnToOrigin\RobotReturnToOrigin\obj\Debug\net8.0\RobotReturnToOrigin.pdb
+D:\Languages\C#\HomeWork\HomeWork7\RobotReturnToOrigin\RobotReturnToOrigin\obj\Debug\net8.0\RobotReturnToOrigin.genruntimeconfig.cache
+D:\Languages\C#\HomeWork\HomeWork7\RobotReturnToOrigin\RobotReturnToOrigin\obj\Debug\net8.0\ref\RobotReturnToOrigin.dll

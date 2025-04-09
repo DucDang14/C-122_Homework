@@ -1,0 +1,14 @@
+D:\Languages\C#\HomeWork\HomeWork7\NumberOfSegmentsInAString\NumberOfSegmentsInAString\bin\Debug\net8.0\NumberOfSegmentsInAString.exe
+D:\Languages\C#\HomeWork\HomeWork7\NumberOfSegmentsInAString\NumberOfSegmentsInAString\bin\Debug\net8.0\NumberOfSegmentsInAString.deps.json
+D:\Languages\C#\HomeWork\HomeWork7\NumberOfSegmentsInAString\NumberOfSegmentsInAString\bin\Debug\net8.0\NumberOfSegmentsInAString.runtimeconfig.json
+D:\Languages\C#\HomeWork\HomeWork7\NumberOfSegmentsInAString\NumberOfSegmentsInAString\bin\Debug\net8.0\NumberOfSegmentsInAString.dll
+D:\Languages\C#\HomeWork\HomeWork7\NumberOfSegmentsInAString\NumberOfSegmentsInAString\bin\Debug\net8.0\NumberOfSegmentsInAString.pdb
+D:\Languages\C#\HomeWork\HomeWork7\NumberOfSegmentsInAString\NumberOfSegmentsInAString\obj\Debug\net8.0\NumberOfSegmentsInAString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Languages\C#\HomeWork\HomeWork7\NumberOfSegmentsInAString\NumberOfSegmentsInAString\obj\Debug\net8.0\NumberOfSegmentsInAString.AssemblyInfoInputs.cache
+D:\Languages\C#\HomeWork\HomeWork7\NumberOfSegmentsInAString\NumberOfSegmentsInAString\obj\Debug\net8.0\NumberOfSegmentsInAString.AssemblyInfo.cs
+D:\Languages\C#\HomeWork\HomeWork7\NumberOfSegmentsInAString\NumberOfSegmentsInAString\obj\Debug\net8.0\NumberOfSegmentsInAString.csproj.CoreCompileInputs.cache
+D:\Languages\C#\HomeWork\HomeWork7\NumberOfSegmentsInAString\NumberOfSegmentsInAString\obj\Debug\net8.0\NumberOfSegmentsInAString.dll
+D:\Languages\C#\HomeWork\HomeWork7\NumberOfSegmentsInAString\NumberOfSegmentsInAString\obj\Debug\net8.0\refint\NumberOfSegmentsInAString.dll
+D:\Languages\C#\HomeWork\HomeWork7\NumberOfSegmentsInAString\NumberOfSegmentsInAString\obj\Debug\net8.0\NumberOfSegmentsInAString.pdb
+D:\Languages\C#\HomeWork\HomeWork7\NumberOfSegmentsInAString\NumberOfSegmentsInAString\obj\Debug\net8.0\NumberOfSegmentsInAString.genruntimeconfig.cache
+D:\Languages\C#\HomeWork\HomeWork7\NumberOfSegmentsInAString\NumberOfSegmentsInAString\obj\Debug\net8.0\ref\NumberOfSegmentsInAString.dll

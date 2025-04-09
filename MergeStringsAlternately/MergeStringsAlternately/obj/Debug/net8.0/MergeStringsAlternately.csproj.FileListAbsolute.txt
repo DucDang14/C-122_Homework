@@ -1,0 +1,14 @@
+D:\Languages\C#\HomeWork\HomeWork7\MergeStringsAlternately\MergeStringsAlternately\bin\Debug\net8.0\MergeStringsAlternately.exe
+D:\Languages\C#\HomeWork\HomeWork7\MergeStringsAlternately\MergeStringsAlternately\bin\Debug\net8.0\MergeStringsAlternately.deps.json
+D:\Languages\C#\HomeWork\HomeWork7\MergeStringsAlternately\MergeStringsAlternately\bin\Debug\net8.0\MergeStringsAlternately.runtimeconfig.json
+D:\Languages\C#\HomeWork\HomeWork7\MergeStringsAlternately\MergeStringsAlternately\bin\Debug\net8.0\MergeStringsAlternately.dll
+D:\Languages\C#\HomeWork\HomeWork7\MergeStringsAlternately\MergeStringsAlternately\bin\Debug\net8.0\MergeStringsAlternately.pdb
+D:\Languages\C#\HomeWork\HomeWork7\MergeStringsAlternately\MergeStringsAlternately\obj\Debug\net8.0\MergeStringsAlternately.GeneratedMSBuildEditorConfig.editorconfig
+D:\Languages\C#\HomeWork\HomeWork7\MergeStringsAlternately\MergeStringsAlternately\obj\Debug\net8.0\MergeStringsAlternately.AssemblyInfoInputs.cache
+D:\Languages\C#\HomeWork\HomeWork7\MergeStringsAlternately\MergeStringsAlternately\obj\Debug\net8.0\MergeStringsAlternately.AssemblyInfo.cs
+D:\Languages\C#\HomeWork\HomeWork7\MergeStringsAlternately\MergeStringsAlternately\obj\Debug\net8.0\MergeStringsAlternately.csproj.CoreCompileInputs.cache
+D:\Languages\C#\HomeWork\HomeWork7\MergeStringsAlternately\MergeStringsAlternately\obj\Debug\net8.0\MergeStringsAlternately.dll
+D:\Languages\C#\HomeWork\HomeWork7\MergeStringsAlternately\MergeStringsAlternately\obj\Debug\net8.0\refint\MergeStringsAlternately.dll
+D:\Languages\C#\HomeWork\HomeWork7\MergeStringsAlternately\MergeStringsAlternately\obj\Debug\net8.0\MergeStringsAlternately.pdb
+D:\Languages\C#\HomeWork\HomeWork7\MergeStringsAlternately\MergeStringsAlternately\obj\Debug\net8.0\MergeStringsAlternately.genruntimeconfig.cache
+D:\Languages\C#\HomeWork\HomeWork7\MergeStringsAlternately\MergeStringsAlternately\obj\Debug\net8.0\ref\MergeStringsAlternately.dll

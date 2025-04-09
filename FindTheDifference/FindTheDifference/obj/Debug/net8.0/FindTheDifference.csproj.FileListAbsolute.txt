@@ -1,0 +1,14 @@
+D:\Languages\C#\HomeWork\HomeWork7\FindTheDifference\FindTheDifference\bin\Debug\net8.0\FindTheDifference.exe
+D:\Languages\C#\HomeWork\HomeWork7\FindTheDifference\FindTheDifference\bin\Debug\net8.0\FindTheDifference.deps.json
+D:\Languages\C#\HomeWork\HomeWork7\FindTheDifference\FindTheDifference\bin\Debug\net8.0\FindTheDifference.runtimeconfig.json
+D:\Languages\C#\HomeWork\HomeWork7\FindTheDifference\FindTheDifference\bin\Debug\net8.0\FindTheDifference.dll
+D:\Languages\C#\HomeWork\HomeWork7\FindTheDifference\FindTheDifference\bin\Debug\net8.0\FindTheDifference.pdb
+D:\Languages\C#\HomeWork\HomeWork7\FindTheDifference\FindTheDifference\obj\Debug\net8.0\FindTheDifference.GeneratedMSBuildEditorConfig.editorconfig
+D:\Languages\C#\HomeWork\HomeWork7\FindTheDifference\FindTheDifference\obj\Debug\net8.0\FindTheDifference.AssemblyInfoInputs.cache
+D:\Languages\C#\HomeWork\HomeWork7\FindTheDifference\FindTheDifference\obj\Debug\net8.0\FindTheDifference.AssemblyInfo.cs
+D:\Languages\C#\HomeWork\HomeWork7\FindTheDifference\FindTheDifference\obj\Debug\net8.0\FindTheDifference.csproj.CoreCompileInputs.cache
+D:\Languages\C#\HomeWork\HomeWork7\FindTheDifference\FindTheDifference\obj\Debug\net8.0\FindTheDifference.dll
+D:\Languages\C#\HomeWork\HomeWork7\FindTheDifference\FindTheDifference\obj\Debug\net8.0\refint\FindTheDifference.dll
+D:\Languages\C#\HomeWork\HomeWork7\FindTheDifference\FindTheDifference\obj\Debug\net8.0\FindTheDifference.pdb
+D:\Languages\C#\HomeWork\HomeWork7\FindTheDifference\FindTheDifference\obj\Debug\net8.0\FindTheDifference.genruntimeconfig.cache
+D:\Languages\C#\HomeWork\HomeWork7\FindTheDifference\FindTheDifference\obj\Debug\net8.0\ref\FindTheDifference.dll
