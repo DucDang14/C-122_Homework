@@ -1,0 +1,14 @@
+D:\Languages\C#\HomeWork\HomeWork8\NumberOfStudentsUnableToEatLunch\NumberOfStudentsUnableToEatLunch\bin\Debug\net8.0\NumberOfStudentsUnableToEatLunch.exe
+D:\Languages\C#\HomeWork\HomeWork8\NumberOfStudentsUnableToEatLunch\NumberOfStudentsUnableToEatLunch\bin\Debug\net8.0\NumberOfStudentsUnableToEatLunch.deps.json
+D:\Languages\C#\HomeWork\HomeWork8\NumberOfStudentsUnableToEatLunch\NumberOfStudentsUnableToEatLunch\bin\Debug\net8.0\NumberOfStudentsUnableToEatLunch.runtimeconfig.json
+D:\Languages\C#\HomeWork\HomeWork8\NumberOfStudentsUnableToEatLunch\NumberOfStudentsUnableToEatLunch\bin\Debug\net8.0\NumberOfStudentsUnableToEatLunch.dll
+D:\Languages\C#\HomeWork\HomeWork8\NumberOfStudentsUnableToEatLunch\NumberOfStudentsUnableToEatLunch\bin\Debug\net8.0\NumberOfStudentsUnableToEatLunch.pdb
+D:\Languages\C#\HomeWork\HomeWork8\NumberOfStudentsUnableToEatLunch\NumberOfStudentsUnableToEatLunch\obj\Debug\net8.0\NumberOfStudentsUnableToEatLunch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Languages\C#\HomeWork\HomeWork8\NumberOfStudentsUnableToEatLunch\NumberOfStudentsUnableToEatLunch\obj\Debug\net8.0\NumberOfStudentsUnableToEatLunch.AssemblyInfoInputs.cache
+D:\Languages\C#\HomeWork\HomeWork8\NumberOfStudentsUnableToEatLunch\NumberOfStudentsUnableToEatLunch\obj\Debug\net8.0\NumberOfStudentsUnableToEatLunch.AssemblyInfo.cs
+D:\Languages\C#\HomeWork\HomeWork8\NumberOfStudentsUnableToEatLunch\NumberOfStudentsUnableToEatLunch\obj\Debug\net8.0\NumberOfStudentsUnableToEatLunch.csproj.CoreCompileInputs.cache
+D:\Languages\C#\HomeWork\HomeWork8\NumberOfStudentsUnableToEatLunch\NumberOfStudentsUnableToEatLunch\obj\Debug\net8.0\NumberOfStudentsUnableToEatLunch.dll
+D:\Languages\C#\HomeWork\HomeWork8\NumberOfStudentsUnableToEatLunch\NumberOfStudentsUnableToEatLunch\obj\Debug\net8.0\refint\NumberOfStudentsUnableToEatLunch.dll
+D:\Languages\C#\HomeWork\HomeWork8\NumberOfStudentsUnableToEatLunch\NumberOfStudentsUnableToEatLunch\obj\Debug\net8.0\NumberOfStudentsUnableToEatLunch.pdb
+D:\Languages\C#\HomeWork\HomeWork8\NumberOfStudentsUnableToEatLunch\NumberOfStudentsUnableToEatLunch\obj\Debug\net8.0\NumberOfStudentsUnableToEatLunch.genruntimeconfig.cache
+D:\Languages\C#\HomeWork\HomeWork8\NumberOfStudentsUnableToEatLunch\NumberOfStudentsUnableToEatLunch\obj\Debug\net8.0\ref\NumberOfStudentsUnableToEatLunch.dll

@@ -1,0 +1,14 @@
+D:\Languages\C#\HomeWork\HomeWork8\BaseballGame\BaseballGame\bin\Debug\net8.0\BaseballGame.exe
+D:\Languages\C#\HomeWork\HomeWork8\BaseballGame\BaseballGame\bin\Debug\net8.0\BaseballGame.deps.json
+D:\Languages\C#\HomeWork\HomeWork8\BaseballGame\BaseballGame\bin\Debug\net8.0\BaseballGame.runtimeconfig.json
+D:\Languages\C#\HomeWork\HomeWork8\BaseballGame\BaseballGame\bin\Debug\net8.0\BaseballGame.dll
+D:\Languages\C#\HomeWork\HomeWork8\BaseballGame\BaseballGame\bin\Debug\net8.0\BaseballGame.pdb
+D:\Languages\C#\HomeWork\HomeWork8\BaseballGame\BaseballGame\obj\Debug\net8.0\BaseballGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Languages\C#\HomeWork\HomeWork8\BaseballGame\BaseballGame\obj\Debug\net8.0\BaseballGame.AssemblyInfoInputs.cache
+D:\Languages\C#\HomeWork\HomeWork8\BaseballGame\BaseballGame\obj\Debug\net8.0\BaseballGame.AssemblyInfo.cs
+D:\Languages\C#\HomeWork\HomeWork8\BaseballGame\BaseballGame\obj\Debug\net8.0\BaseballGame.csproj.CoreCompileInputs.cache
+D:\Languages\C#\HomeWork\HomeWork8\BaseballGame\BaseballGame\obj\Debug\net8.0\BaseballGame.dll
+D:\Languages\C#\HomeWork\HomeWork8\BaseballGame\BaseballGame\obj\Debug\net8.0\refint\BaseballGame.dll
+D:\Languages\C#\HomeWork\HomeWork8\BaseballGame\BaseballGame\obj\Debug\net8.0\BaseballGame.pdb
+D:\Languages\C#\HomeWork\HomeWork8\BaseballGame\BaseballGame\obj\Debug\net8.0\BaseballGame.genruntimeconfig.cache
+D:\Languages\C#\HomeWork\HomeWork8\BaseballGame\BaseballGame\obj\Debug\net8.0\ref\BaseballGame.dll

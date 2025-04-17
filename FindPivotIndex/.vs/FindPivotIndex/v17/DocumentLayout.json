@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Languages\\C#\\HomeWork\\HomeWork8\\FindPivotIndex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4457CD3-9C67-4C06-A876-DDBFEDBD77B7}|FindPivotIndex\\FindPivotIndex.csproj|d:\\languages\\c#\\homework\\homework8\\findpivotindex\\findpivotindex\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4457CD3-9C67-4C06-A876-DDBFEDBD77B7}|FindPivotIndex\\FindPivotIndex.csproj|solutionrelative:findpivotindex\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4457CD3-9C67-4C06-A876-DDBFEDBD77B7}|FindPivotIndex\\FindPivotIndex.csproj|d:\\languages\\c#\\homework\\homework8\\findpivotindex\\findpivotindex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4457CD3-9C67-4C06-A876-DDBFEDBD77B7}|FindPivotIndex\\FindPivotIndex.csproj|solutionrelative:findpivotindex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Solution.cs",
+              "DocumentMoniker": "D:\\Languages\\C#\\HomeWork\\HomeWork8\\FindPivotIndex\\FindPivotIndex\\Solution.cs",
+              "RelativeDocumentMoniker": "FindPivotIndex\\Solution.cs",
+              "ToolTip": "D:\\Languages\\C#\\HomeWork\\HomeWork8\\FindPivotIndex\\FindPivotIndex\\Solution.cs",
+              "RelativeToolTip": "FindPivotIndex\\Solution.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T01:10:46.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Languages\\C#\\HomeWork\\HomeWork8\\FindPivotIndex\\FindPivotIndex\\Program.cs",
+              "RelativeDocumentMoniker": "FindPivotIndex\\Program.cs",
+              "ToolTip": "D:\\Languages\\C#\\HomeWork\\HomeWork8\\FindPivotIndex\\FindPivotIndex\\Program.cs",
+              "RelativeToolTip": "FindPivotIndex\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T13:34:56.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

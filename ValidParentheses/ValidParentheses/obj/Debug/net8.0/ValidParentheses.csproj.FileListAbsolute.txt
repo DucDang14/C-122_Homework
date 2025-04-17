@@ -1,0 +1,14 @@
+D:\Languages\C#\HomeWork\HomeWork8\ValidParentheses\ValidParentheses\obj\Debug\net8.0\ValidParentheses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Languages\C#\HomeWork\HomeWork8\ValidParentheses\ValidParentheses\obj\Debug\net8.0\ValidParentheses.AssemblyInfoInputs.cache
+D:\Languages\C#\HomeWork\HomeWork8\ValidParentheses\ValidParentheses\obj\Debug\net8.0\ValidParentheses.AssemblyInfo.cs
+D:\Languages\C#\HomeWork\HomeWork8\ValidParentheses\ValidParentheses\obj\Debug\net8.0\ValidParentheses.csproj.CoreCompileInputs.cache
+D:\Languages\C#\HomeWork\HomeWork8\ValidParentheses\ValidParentheses\bin\Debug\net8.0\ValidParentheses.exe
+D:\Languages\C#\HomeWork\HomeWork8\ValidParentheses\ValidParentheses\bin\Debug\net8.0\ValidParentheses.deps.json
+D:\Languages\C#\HomeWork\HomeWork8\ValidParentheses\ValidParentheses\bin\Debug\net8.0\ValidParentheses.runtimeconfig.json
+D:\Languages\C#\HomeWork\HomeWork8\ValidParentheses\ValidParentheses\bin\Debug\net8.0\ValidParentheses.dll
+D:\Languages\C#\HomeWork\HomeWork8\ValidParentheses\ValidParentheses\bin\Debug\net8.0\ValidParentheses.pdb
+D:\Languages\C#\HomeWork\HomeWork8\ValidParentheses\ValidParentheses\obj\Debug\net8.0\ValidParentheses.dll
+D:\Languages\C#\HomeWork\HomeWork8\ValidParentheses\ValidParentheses\obj\Debug\net8.0\refint\ValidParentheses.dll
+D:\Languages\C#\HomeWork\HomeWork8\ValidParentheses\ValidParentheses\obj\Debug\net8.0\ValidParentheses.pdb
+D:\Languages\C#\HomeWork\HomeWork8\ValidParentheses\ValidParentheses\obj\Debug\net8.0\ValidParentheses.genruntimeconfig.cache
+D:\Languages\C#\HomeWork\HomeWork8\ValidParentheses\ValidParentheses\obj\Debug\net8.0\ref\ValidParentheses.dll

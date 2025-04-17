@@ -1,0 +1,14 @@
+D:\Languages\C#\HomeWork\HomeWork8\FindPivotIndex\FindPivotIndex\bin\Debug\net8.0\FindPivotIndex.exe
+D:\Languages\C#\HomeWork\HomeWork8\FindPivotIndex\FindPivotIndex\bin\Debug\net8.0\FindPivotIndex.deps.json
+D:\Languages\C#\HomeWork\HomeWork8\FindPivotIndex\FindPivotIndex\bin\Debug\net8.0\FindPivotIndex.runtimeconfig.json
+D:\Languages\C#\HomeWork\HomeWork8\FindPivotIndex\FindPivotIndex\bin\Debug\net8.0\FindPivotIndex.dll
+D:\Languages\C#\HomeWork\HomeWork8\FindPivotIndex\FindPivotIndex\bin\Debug\net8.0\FindPivotIndex.pdb
+D:\Languages\C#\HomeWork\HomeWork8\FindPivotIndex\FindPivotIndex\obj\Debug\net8.0\FindPivotIndex.GeneratedMSBuildEditorConfig.editorconfig
+D:\Languages\C#\HomeWork\HomeWork8\FindPivotIndex\FindPivotIndex\obj\Debug\net8.0\FindPivotIndex.AssemblyInfoInputs.cache
+D:\Languages\C#\HomeWork\HomeWork8\FindPivotIndex\FindPivotIndex\obj\Debug\net8.0\FindPivotIndex.AssemblyInfo.cs
+D:\Languages\C#\HomeWork\HomeWork8\FindPivotIndex\FindPivotIndex\obj\Debug\net8.0\FindPivotIndex.csproj.CoreCompileInputs.cache
+D:\Languages\C#\HomeWork\HomeWork8\FindPivotIndex\FindPivotIndex\obj\Debug\net8.0\FindPivotIndex.dll
+D:\Languages\C#\HomeWork\HomeWork8\FindPivotIndex\FindPivotIndex\obj\Debug\net8.0\refint\FindPivotIndex.dll
+D:\Languages\C#\HomeWork\HomeWork8\FindPivotIndex\FindPivotIndex\obj\Debug\net8.0\FindPivotIndex.pdb
+D:\Languages\C#\HomeWork\HomeWork8\FindPivotIndex\FindPivotIndex\obj\Debug\net8.0\FindPivotIndex.genruntimeconfig.cache
+D:\Languages\C#\HomeWork\HomeWork8\FindPivotIndex\FindPivotIndex\obj\Debug\net8.0\ref\FindPivotIndex.dll
